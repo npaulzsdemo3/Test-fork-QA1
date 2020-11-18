@@ -1,0 +1,46 @@
+ groupid  |                name                
+----------+------------------------------------
+ 13883840 | Service Admin
+ 15381640 | TDCC-Emp
+ 15360960 | TDCC-Contr
+ 15460653 | Charger-Emp
+ 15460654 | SH_T002_LimitedInternet_Functional
+ 15460656 | Charger-Contr
+ 15460657 | SH_T047_LimitedInternet_Functional
+ 15460658 | SH_T012_Internet_Users
+ 15460659 | SH_T003_Internet_Users
+ 15460660 | ws_AllowShare
+ 15460661 | DuPont-SpecCo-Users
+ 15460662 | DuPont-AgCo-Users
+ 15460663 | SH_T012_LimitedInternet_Functional
+ 15460664 | SSL_Pilot_Shanghai_T001_Limited
+ 15460665 | SSL_Pilot_Frankfurt_T001_Full
+ 15460666 | SH_T003_LimitedInternet_Functional
+ 15460667 | BlueCube-Emp
+ 15460668 | CortevaTSA-Users
+ 15460669 | SSL_Pilot_Singapore_T001_Full
+ 15460670 | SSL_Pilot_Shanghai_T001_Full
+ 15460671 | Peak-Users
+ 15460672 | BlueCube-Contr
+ 15460673 | SH_T001_LimitedInternet_Functional
+ 15460674 | SH_T047_Internet_Users
+ 15460675 | SH_T001_Internet_Users
+ 15460676 | SSL_Pilot_Frankfurt_T001_Limited
+ 15460677 | SH_Azure_Core_Services
+ 15460678 | DuPontTSA-Users
+ 15460679 | SSL_Pilot_Singapore_T001_Limited
+ 15518208 | AZA_ZSCALER_POC_RING0
+ 15515341 | AZA_ZSCALER_POC_RING1
+ 15460680 | TDCC-RPA
+ 15460681 | SH_T002_Internet_Users
+ 16571243 | treasury-nt_sftp-SA
+ 16620515 | SFUser-R
+ 16664183 | MEGlobal-Emp
+ 16677603 | SCG-Dow-Contr
+ 16693267 | SCG-Dow-Emp
+ 16776443 | JMI-User-Access
+ 16786861 | InternetUsers
+ 16831695 | MEGlobal-Contr
+ 16866079 | ws_allowolinshare
+(42 rows)
+
